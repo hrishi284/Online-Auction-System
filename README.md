@@ -10,7 +10,7 @@ FrontEnd :REACT JS
 	Login<br>
  Two types of user can use the system<br>
  1. USER(Seller,Buyer)<br>
- 2. Admin
+ 2. Admin<br>
 
 
 	Property Registration and Enrollment
