@@ -40,8 +40,8 @@ Online Auction System is a user-friendly website designed to put the auction at 
 	 Admin Dashboard
 
   1.Admin can login and logout.
-  2.Admin can Approve the Property for listing 
- 3.Admin can have reports that  
+  2.Admin can Approve the Property for listing.
+ 3.Admin can have reports that.
 
 
 # 1)Login 
