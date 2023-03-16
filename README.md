@@ -3,7 +3,7 @@
 # Description 
 Online Auction System is a user-friendly website designed to put the auction at the fingertips of potential bidders, expanding the scope of the OPEN Auction. This website also serves as a public marketplace where buyers and sellers may meet and trade real estate at reasonable prices with appropriate property validation and inspection. Everyone has access to it at any moment. One user may submit several bids in this system. Buyers who wish to bid on it must pay a deposit; if they win the bid, they will be notified by email after the timer expires.
 
-•	Functional Requirement </br>
+<H3>	Functional Requirement</H3> </br>
 	Login
  Two types of user can use the system
  1. USER(Seller,Buyer)
