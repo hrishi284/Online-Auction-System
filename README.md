@@ -7,9 +7,9 @@ BackEnd : J2EE,Spring Boot<br>
 FrontEnd :REACT JS
 
 <H3>	Functional Requirement</H3> 
-	Login
- Two types of user can use the system
- 1. USER(Seller,Buyer)
+	Login<br>
+ Two types of user can use the system<br>
+ 1. USER(Seller,Buyer)<br>
  2. Admin
 
 
