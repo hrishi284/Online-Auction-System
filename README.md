@@ -46,6 +46,8 @@ FrontEnd :REACT JS
   2.Admin can Approve the Property for listing.</br>
  3.Admin can have reports that.</br>
 
+# Entity Relationship Diagram
+![image](https://user-images.githubusercontent.com/72089551/225549264-c5711a07-a6fb-4701-bd09-abc930766d10.png)
 
 # 1)Login 
 ![Screenshot (40)](https://user-images.githubusercontent.com/72089551/225545875-004a4f2f-f575-4c00-bb49-634c80ef82e5.png)
